@@ -1,6 +1,7 @@
 # **💘 Wingman AI \- Your Personal Dating Assistant**
 
-*(screenshot.png)*
+
+![application screenshot](/screenshot.png)
 
 **Wingman AI** is a lightweight, single-file web application designed to help you navigate the complex world of online dating. Powered by Google's **Gemini 2.5 Flash** model, it acts as a real-time coach, analyzing bios, photos, and chat logs to suggest witty openers and smooth replies.
 
@@ -22,7 +23,7 @@ This is a **Single File Application**. You do not need Node.js, NPM, or a backen
 2. Rename it to index.html (optional).  
 3. Double-click the file to open it in your web browser (Chrome, Edge, Firefox).
 
-### **Option 2: Host for Free (Netlify/GitHub Pages)**
+### **Option 2: Host for Free (GitHub Pages)**
 
 **GitHub Pages:** \[Wingman AI \- Dating Assistant\](https://aistudio.google.com/app/apikey)
 
